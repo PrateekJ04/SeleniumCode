@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9fadea9-00c2-4ce0-acbb-74012c9f1fab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MiniSeleniumPrj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyPrac_Ebay/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyPrac_Ebay/ebay_prj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyPrac_Ebay/vwo_with_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c9fadea9-00c2-4ce0-acbb-74012c9f1fab" name="Changes" comment="ebay title and price &amp; vwo with explicit wait" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +98,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729650841548</updated>
     </task>
+    <task id="LOCAL-00001" summary="ebay title and price &amp; vwo with explicit wait">
+      <option name="closed" value="true" />
+      <created>1729708634557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729708634557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ebay title and price &amp; vwo with explicit wait" />
+    <option name="LAST_COMMIT_MESSAGE" value="ebay title and price &amp; vwo with explicit wait" />
   </component>
 </project>

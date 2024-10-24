@@ -34,3 +34,4 @@ def test_vwo_login_with_invalid_creds():
     message = alert_message.text
     print(message)
     assert message.__eq__("Your email, password, IP address or location did not match")
+    driver.quit()

@@ -57,3 +57,4 @@ def test_ebay_product_title_and_price():
     #Use zip function to join two lists and show in dictionary format
     title_n_price=dict(zip(l,new_list))
     print(f"Title and Price of the products is : {title_n_price}")
+    driver.quit()
