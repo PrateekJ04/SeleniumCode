@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9fadea9-00c2-4ce0-acbb-74012c9f1fab" name="Changes" comment="ebay title and price &amp; vwo with explicit wait updated">
-      <change afterPath="$PROJECT_DIR$/Pyprac_RCS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyprac_RCS/test_radiobtn_checkbox.py" afterDir="false" />
+    <list default="true" id="c9fadea9-00c2-4ce0-acbb-74012c9f1fab" name="Changes" comment="radio button, checkbox and select class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyprac_RCS/test_radiobtn_checkbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pyprac_RCS/test_radiobtn_checkbox.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for ebay_prj.test_ebay_product_title_and_price.executor": "Run",
+    "Python tests.Python tests for test_radiobtn_checkbox.test_alert_functions.executor": "Run",
     "Python tests.Python tests for test_radiobtn_checkbox.test_radiobtn_checkbox_selectclass.executor": "Run",
     "Python tests.Python tests for test_radiobtn_checkbox.test_vwo_login_with_invalid_creds.executor": "Run",
     "Python tests.Python tests for vwo_with_wait.test_vwo_login_with_invalid_creds.executor": "Run",
@@ -50,7 +50,7 @@
       <recent name="C:\Users\prate\PycharmProjects\MiniSeleniumPrj" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_radiobtn_checkbox.test_radiobtn_checkbox_selectclass">
+  <component name="RunManager" selected="Python tests.Python tests for test_radiobtn_checkbox.test_alert_functions">
     <configuration name="Python tests for ebay_prj.test_ebay_product_title_and_price" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="MiniSeleniumPrj" />
       <option name="ENV_FILES" value="" />
@@ -63,6 +63,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;ebay_prj.test_ebay_product_title_and_price&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_radiobtn_checkbox.test_alert_functions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="MiniSeleniumPrj" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyprac_RCS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_radiobtn_checkbox.test_alert_functions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -113,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_radiobtn_checkbox.test_alert_functions" />
         <item itemvalue="Python tests.Python tests for test_radiobtn_checkbox.test_radiobtn_checkbox_selectclass" />
         <item itemvalue="Python tests.Python tests for test_radiobtn_checkbox.test_vwo_login_with_invalid_creds" />
         <item itemvalue="Python tests.Python tests for vwo_with_wait.test_vwo_login_with_invalid_creds" />
@@ -152,12 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729736022329</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="radio button, checkbox and select class">
+      <option name="closed" value="true" />
+      <created>1729943819241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729943819241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ebay title and price &amp; vwo with explicit wait" />
     <MESSAGE value="ebay title and price &amp; vwo with explicit wait updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="ebay title and price &amp; vwo with explicit wait updated" />
+    <MESSAGE value="radio button, checkbox and select class" />
+    <option name="LAST_COMMIT_MESSAGE" value="radio button, checkbox and select class" />
   </component>
 </project>
