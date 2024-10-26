@@ -51,7 +51,7 @@ def test_radiobtn_checkbox_selectclass():
     driver.quit()
 
 
-@pytest.mark.Alert
+@pytest.mark.alert
 @allure.title("Javascript Alert handle")
 @allure.description("Verify if alert is handled properly")
 def test_alert_functions():
