@@ -20,7 +20,7 @@ def test_radiobtn_checkbox_selectclass():
     driver = webdriver.Chrome(options=optns)
     wait = WebDriverWait(driver, 10)
     driver.get(" https://awesomeqa.com/practice.html")
-    first_name=driver.find_element(By.CSS_SELECTOR,"input[name='firstname']")
+    first_name = driver.find_element(By.CSS_SELECTOR, "input[name='firstname']")
     first_name.send_keys("Brad")
     last_name = driver.find_element(By.CSS_SELECTOR, "input[name='lastname']")
     last_name.send_keys("Pitt")
@@ -46,8 +46,7 @@ def test_radiobtn_checkbox_selectclass():
     continent = driver.find_element(By.XPATH, ".//select[@id='continents']")
     wait.until(EC.visibility_of(continent))
     select = Select(continent)
-    australia = select.select_by_visible_text("Australia")
-
+    select.select_by_visible_text("Australia")
     time.sleep(7)
     driver.quit()
 
